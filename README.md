@@ -1,2 +1,2 @@
 # logs
-django blog
+django blog website
