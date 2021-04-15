@@ -1,0 +1,2 @@
+# logs
+django blog
